@@ -4044,3 +4044,17 @@ https://learn.microsoft.com/en-us/windows/win32/secauthz/security-descriptor-def
 https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#application-configuration-changes
 https://web.archive.org/web/20230420013146/http://security-research.dyndns.org/pub/slides/FIRST2017/FIRST-2017_Tom-Ueltschi_Sysmon_FINAL_notes.pdf
 https://web.archive.org/web/20230329172447/https://blog.menasec.net/2019/02/threat-hunting-24-microsoft-windows-dns.html
+https://learn.microsoft.com/en-us/windows/win32/shell/shell-and-managed-code
+https://x.com/Max_Mal_/status/1826179497084739829
+https://x.com/cyb3rops/status/1862406110365245506
+https://learn.microsoft.com/en-us/dotnet/api/system.directoryservices.accountmanagement?view=net-8.0
+https://tria.ge/240731-jh4crsycnb/behavioral2
+https://learn.microsoft.com/en-us/entra/id-protection/concept-identity-protection-risks#password-spray
+https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-applications#service-principal-assigned-to-a-role
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.security/set-executionpolicy?view=powershell-7.4
+https://threatbook.io/blog/Analysis-of-APT-C-60-Attack-on-South-Korea
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/wbadmin-start-recovery
+https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior
+https://www.loobins.io/binaries/nscurl/
+https://web.archive.org/web/20211001064856/https://github.com/snovvcrash/DInjector
