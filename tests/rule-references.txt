@@ -4093,3 +4093,16 @@ https://learn.microsoft.com/en-us/sql/t-sql/statements/drop-server-audit-transac
 https://admx.help/?Category=Windows_10_2016&Policy=Microsoft.Policies.InternetExplorer::IZ_IncludeUnspecifiedLocalSites
 https://web.archive.org/web/20230726144748/https://blog.thickmints.dev/mintsights/detecting-rogue-rdp/
 https://web.archive.org/web/20231221193106/https://www.swascan.com/cactus-ransomware-malware-analysis/
+https://github.com/dsnezhkov/TruffleSnout/blob/7c2f22e246ef704bc96c396f66fa854e9ca742b9/TruffleSnout/Docs/USAGE.md
+https://www.microsoft.com/en-us/security/blog/2022/12/12/iis-modules-the-evolution-of-web-shells-and-how-to-detect-them/
+https://redcanary.com/blog/threat-intelligence/intelligence-insights-may-2025/
+https://www.joesandbox.com/analysis/1467354/0/html
+https://www.linkedin.com/feed/update/urn:li:ugcPost:7257437202706493443?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7257437202706493443%2C7257522819985543168%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287257522819985543168%2Curn%3Ali%3AugcPost%3A7257437202706493443%29
+https://gtfobins.github.io/gtfobins/nawk/#shell
+https://learn.microsoft.com/en-us/windows/win32/shell/shell-and-managed-code
+https://learn.microsoft.com/en-us/visualstudio/debugger/debug-using-the-just-in-time-debugger?view=vs-2019
+https://blu.org/mhonarc/discuss/2001/04/msg00285.php
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/installing-updates-features-roles/system-registry-no-backed-up-regback-folder
+https://learn.microsoft.com/en-us/entra/architecture/security-operations-user-accounts#monitoring-for-failed-unusual-sign-ins
+https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
+https://labs.watchtowr.com/expression-payloads-meet-mayhem-cve-2025-4427-and-cve-2025-4428/?123
